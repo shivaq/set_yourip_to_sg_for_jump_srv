@@ -1,3 +1,4 @@
+#!/bin/bash
 # Get my own IP address
 MY_IP_ADDRESS=$(curl http://checkip.amazonaws.com/)
 
